@@ -1,0 +1,216 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category_id": 1,
+      "name": "Coca-cola lata",
+      "description": "Coca-cola lata 350ml",
+      "price": 3.50,
+      "image": "https://www.carone.com.br/media/catalog/product/cache/1/image/580x580/9df78eab33525d08d6e5fb8d27136e95/2/7/27329_B.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "category_id": 1,
+      "name": "Fanta uva lata",
+      "description": "Fanta uva lata 350ml",
+      "price": 3.00,
+      "image": "https://cdn.awsli.com.br/600x450/914/914004/produto/35314603/17ee9181f3.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "category_id": 1,
+      "name": "Fanta laranja lata",
+      "description": "Fanta laranja lata 350ml",
+      "price": 3.20,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71rrDtw8%2BDL._AC_SL1200_.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 4,
+      "category_id": 1,
+      "name": "Água sem gás",
+      "description": "Água sem gás 600ml",
+      "price": 6.20,
+      "image": "https://hiperideal.vteximg.com.br/arquivos/ids/168772-292-292/1723278.jpg?v=636615819944930000",
+      "quantity": 1
+    },
+    {
+      "id": 5,
+      "category_id": 1,
+      "name": "Pepsi lata",
+      "description": "Pepsi lata 350ml",
+      "price": 3.20,
+      "image": "https://casafiesta.fbitsstatic.net/img/p/refrigerante-pepsi-lata-350ml-67643/234511.jpg?w=420&h=420&v=no-change",
+      "quantity": 1
+    },
+    {
+      "id": 6,
+      "category_id": 1,
+      "name": "Ice tea pêssego",
+      "description": "Ice tea pêssego 350ml",
+      "price": 3.20,
+      "image": "https://www.carone.com.br/media/catalog/product/cache/1/image/580x580/9df78eab33525d08d6e5fb8d27136e95/1/0/109526_B_1.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 7,
+      "category_id": 1,
+      "name": "Água tônica",
+      "description": "Água tônica lata 350ml",
+      "price": 3.20,
+      "image": "https://casafiesta.fbitsstatic.net/img/p/agua-tonica-antarctica-350ml-67059/233927.jpg?w=420&h=420&v=no-change",
+      "quantity": 1
+    },
+    {
+      "id": 8,
+      "category_id": 1,
+      "name": "Schweppes citrus lata",
+      "description": "Schweppes citrus lata 350ml",
+      "price": 3.20,
+      "image": "https://distribuidorasilvamar.com.br/wp-content/uploads/2020/03/schweppes-lata.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 9,
+      "category_id": 2,
+      "name": "Brigadeiro",
+      "description": "Brigadeiro chocolate 1 und.",
+      "price": 2.00,
+      "image": "https://thumbs.dreamstime.com/b/brigadeiro-brasileiro-tradicional-isolado-no-fundo-branco-104070195.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 10,
+      "category_id": 2,
+      "name": "Bolo de laranja",
+      "description": "Bolo de laranja 1 und.",
+      "price": 2.00,
+      "image": "https://i1.wp.com/visaocidade.com.br/wp-content/uploads/2018/07/Bolo-de-laranja-com-calda.jpg?fit=650%2C400&w=640",
+      "quantity": 1
+    },
+    {
+      "id": 11,
+      "category_id": 2,
+      "name": "Torta alemã",
+      "description": "Torta alemã 1 und.",
+      "price": 2.00,
+      "image": "https://lh3.googleusercontent.com/proxy/Luv6DzuuRqarf7HMz9hbAIwOaxnt1pjTn0f6c7NNCwuZF9J4L49eIfMk0yuFNWtFlU2RDpPAHvaxSDP2ruEHv91i9XP6jeqVxrQKQmKy1g",
+      "quantity": 1
+    },
+    {
+      "id": 12,
+      "category_id": 2,
+      "name": "Torta de limão",
+      "description": "Torta de limão 1 und.",
+      "price": 2.00,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTAL2l9n6p3Z-MW8ApFqipE0JPuk-h9OXeIpQ&usqp=CAU",
+      "quantity": 1
+    },
+    {
+      "id": 13,
+      "category_id": 2,
+      "name": "Strudel",
+      "description": "Strudel 1 und.",
+      "price": 2.00,
+      "image": "https://sites.google.com/site/receitasperfeitasedicas/_/rsrc/1466511309034/apfelstrudel-strudel-de-maca/aa.png",
+      "quantity": 1
+    },
+    {
+      "id": 14,
+      "category_id": 2,
+      "name": "Bolo de chocolate",
+      "description": "Bolo de chocolate 1 und.",
+      "price": 4.50,
+      "image": "https://abrilmdemulher.files.wordpress.com/2016/10/receita-bolo-chocolate-maca.jpg?quality=90&strip=info&w=620&h=372&crop=1",
+      "quantity": 1
+    },
+    {
+      "id": 15,
+      "category_id": 2,
+      "name": "Bolo de coco",
+      "description": "Bolo de coco 1 und.",
+      "price": 4.30,
+      "image": "https://www.estilovegan.com.br/wp-content/uploads/2018/09/bolo-coco.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 16,
+      "category_id": 3,
+      "name": "Brioche de queijo",
+      "description": "Brioche de queijo 1 und.",
+      "price": 5.00,
+      "image": "https://img.estadao.com.br/fotos/crop/1200x1200/resources/jpg/5/5/1568840170955.jpg?xcd_image_optimization=false",
+      "quantity": 1
+    },
+    {
+      "id": 17,
+      "category_id": 3,
+      "name": "Empadinha de camarão",
+      "description": "Empadinha de camarão 1 und.",
+      "price": 4.00,
+      "image": "https://i.pinimg.com/originals/30/5f/3d/305f3dd3222aa6c9a0fefc305902647d.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 18,
+      "category_id": 3,
+      "name": "Coxinha de frango",
+      "description": "Coxinha de frango 1 und.",
+      "price": 4.00,
+      "image": "https://st.depositphotos.com/1354142/4726/i/950/depositphotos_47262677-stock-photo-coxinha-de-frango-brazilian-chicken.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 19,
+      "category_id": 3,
+      "name": "Kibe de queijo",
+      "description": "Kibe de queijo 1 und.",
+      "price": 4.00,
+      "image": "https://img.cybercook.com.br/imagens/receitas/51/queijo-cremily.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 20,
+      "category_id": 3,
+      "name": "Empadinha de palmito",
+      "description": "Empadinha de palmito 1 und.",
+      "price": 4.00,
+      "image": "https://vejasp.abril.com.br/wp-content/uploads/2016/12/godinho002-3.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 21,
+      "category_id": 3,
+      "name": "Croissant de tomate seco",
+      "description": "Croissant de tomate seco 1 und.",
+      "price": 4.00,
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0b/54/5e/4d/croasonho-de-tomate-seco.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 22,
+      "category_id": 3,
+      "name": "Pão de queijo",
+      "description": "Pão de queijo 1 und.",
+      "price": 4.00,
+      "image": "https://img.estadao.com.br/fotos/crop/1200x900/resources/jpg/3/4/1571767934443.jpg?xcd_image_optimization=false",
+      "quantity": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Bebidas"
+    },
+    {
+      "id": 2,
+      "name": "Doces"
+    },
+    {
+      "id": 3,
+      "name": "Salgados"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "montserrat";
+  src: url("./font/montserrat.ttf") format("ttf");
+  src: url("./font/montserrat.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box !important;
+}
+
+html,
+body {
+  height: 100%;
+  --antd-wave-shadow-color: none;
+}
+
+body {
+  font-family: "montserrat"!important;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Modal */
+
+.ant-modal-close-x{
+  display: none !important;
+}
